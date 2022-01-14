@@ -1,0 +1,2 @@
+/Users/iwamotoyasutaka/My project/obj/Debug/UnityEngine.UI.csproj.AssemblyReference.cache
+/Users/iwamotoyasutaka/My project/obj/Debug/UnityEngine.UI.csproj.CoreCompileInputs.cache
